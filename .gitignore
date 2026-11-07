@@ -1,0 +1,9 @@
+.terraform/ 
+*.tfstate 
+*.tfstate.backup 
+*.tfvars 
+infra/.terraform.lock.hcl
+node_modules/
+coverage/
+environments/dev/.terraform.lock.hcl
+backend-bootstrap/.terraform.lock.hcl
